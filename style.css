@@ -1,0 +1,31 @@
+h3{
+    text-align: center;
+
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+body{
+    border:2px solid black;
+    border-radius: 3px;
+    height:600px;
+    background-color: bisque;
+    background-attachment: fixed;
+    
+}
+.container{
+    border: 2px solid black;
+    width:0px;
+    height:400px;
+    
+}
+.col div{
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    place-items: center;
+    margin-top: 30px ;
+    
+}
